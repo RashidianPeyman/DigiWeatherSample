@@ -155,7 +155,6 @@ public class ShowWeatherActivity extends AppCompatActivity implements MainWeathe
 
     @Override
     protected void onStop() {
-        System.out.println("peyman dispose started");
         presenter.startDispose();
         super.onStop();
     }

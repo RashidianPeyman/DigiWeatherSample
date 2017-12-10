@@ -66,14 +66,8 @@ public class Global {
             return result;
         } else {
 
-//            int restoredId = getPreferences(context).getInt("id",0);
-//
-//            if (restoredId != 0) {
-//                ResponseModel result = realm.where(ResponseModel.class).equalTo("id", restoredId).findFirst();
-//                return result;
-//            } else {
             return null;
-//            }
+
         }
     }
 
