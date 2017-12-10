@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DigiWeatherSample</string>
+    <string name="city_name_error">لطفا نام شهر را صحیح و به انگلیسی تایپ کنید</string>
+    <string name="server_not_response">پاسخی از سرور دریافت نشد لطفا مجددا امتحان کنید</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="minTemp">حداقل دما :</string>
+    <string name="maxTemp">حداکثر دما :</string>
+    <string name="currentTemp">دمای کنونی :</string>
+    <string name="lastUpdate">آخرین به روز رسانی :</string>
+    <string name="heumidity">رطوبت :</string>
+    <string name="description">وظعیت هوا :</string>
+    <string name="wind">شدت باد :</string>
+    <string name="gps_network_not_enabled">gps فعال نیست آیا مایل به روشن کردن آن هستید؟</string>
+    <string name="open_location_settings">بله</string>
+    <string name="Cancel">خیر</string>
+</resources>
