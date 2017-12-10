@@ -1,4 +1,4 @@
-package sample.com.digikalaweathersample;
+package sample.com.digiweathersample;
 
 import android.widget.AdapterView;
 
